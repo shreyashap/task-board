@@ -1,4 +1,4 @@
-# Premium Task Board
+# Task Board
 
 A fully functional Task Board application with a static login flow, interactive drag-and-drop, and persistent local storage.
 
